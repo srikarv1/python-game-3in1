@@ -1,0 +1,9 @@
+screenwidth= 480
+screenheight= 640
+tickrate=60
+Yellow = (0,100,245)
+White = (255,255,255)
+Red = (255,0,0)
+Black=(0,0,0)
+paddleheight = 75
+paddlewidth = 20
